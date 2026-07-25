@@ -31,6 +31,33 @@ Estudiante y desarrollador con base en Bogotá, Colombia, actualmente en formaci
 
 ---
 
+## 🚀 Proyectos
+
+### 🧳 Parchemos Travel — Full Stack
+Aplicación web interactiva y escalable desarrollada con Java, Spring Boot y JavaScript. Proyecto final de desarrollo Full Stack.
+
+<img src="https://jua039.github.io/Portafolio-de-juan/img/parchemos.jpeg" width="500" alt="Parchemos Travel"/>
+
+[🔗 Ver código](https://github.com/jua039/PROYECTO_FINAL-) · [🌐 Ver página](https://jua039.github.io/parchemos_pag/)
+
+### 🛰️ API NASA — Consumo de APIs
+Consumo de la API pública de la NASA con JavaScript para mostrar datos e imágenes en tiempo real, con manejo de peticiones asíncronas.
+
+<img src="https://jua039.github.io/Portafolio-de-juan/img/api.jpeg" width="500" alt="API NASA"/>
+
+[🔗 Ver código](https://github.com/jua039/api_nasa)
+
+### 🛒 Mini Tienda - Carrito de Compras — E-commerce
+Simulación de carrito de compras con JavaScript: agregar, eliminar y calcular totales de productos de forma dinámica.
+
+<img src="https://jua039.github.io/Portafolio-de-juan/img/tienda.jpeg" width="500" alt="Mini Tienda Carrito"/>
+
+[🔗 Ver código](https://github.com/jua039/mini-tienda-carrito) · [🌐 Ver página](https://jua039.github.io/mini-tienda-carrito/)
+
+📁 Puedes ver todos mis proyectos en mi [portafolio completo](https://jua039.github.io/Portafolio-de-juan/).
+
+---
+
 ## 💼 Experiencia
 
 **Desarrollador Full Stack Java en Formación** — Freelance *(mayo 2026 - actualidad)*
