@@ -26,9 +26,9 @@ Estudiante y desarrollador con base en Bogotá, Colombia, actualmente en formaci
 
 ## 📊 Estadísticas de GitHub
 
-![Juan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jua039&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jua039&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jua039&theme=radical)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jua039&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jua039&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=jua039&theme=radical)
 
 ---
 
